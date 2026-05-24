@@ -1,0 +1,5 @@
+{
+  "name": "MINDSPARK Academy",
+  "description": "The infinite learning monolith for Zimbabwean education, featuring AI-powered textbook parsing, handwriting OCR, and neural syllabus tracking.",
+  "requestFramePermissions": ["camera"]
+}
